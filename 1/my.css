@@ -1,0 +1,19 @@
+body{
+color:#FFFFFF;
+/*font-size:25px;*/
+}
+li{
+font-size:20px;
+}
+.warning{
+color:#CD6600;
+}
+.error{
+color:#FF0000;
+}
+.ok {
+color:#00FF00;
+}
+.info{
+color:#000000;
+}
