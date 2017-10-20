@@ -12,6 +12,9 @@ padding:0;
 li{
 font-size:20px;
 }
+a{
+list-style-type:none;
+}
 
 .center{
 text-align:center;
@@ -62,8 +65,8 @@ float:left;
 position:relative;
 }
 div#mainmenu ul#menu li:hover #hovermenu{
-width:200px;
-height:150px;
+/*width:200px;*/
+/*height:150px;*/
 display:block;
 background-color:#3C3B37;
 }
